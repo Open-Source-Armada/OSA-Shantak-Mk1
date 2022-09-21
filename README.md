@@ -1,7 +1,6 @@
 # OSA-Shantak-Mk1
 A cheap well armoured tripod ship, built to provide close air support to infantry, is a cheaper PvP option than most fighters.
 
-
 //Specs//
 
 
@@ -13,12 +12,11 @@ BoostMin and BoostMax act as a aim keybind without yolo (yolo is avoided where p
 
 Ship is set to both fly and aim at a smooth sensitivity (tune to your taste), Boost keybind removes these limits allowing for faster pitch/yaw.
 
-This can be altered to be the more common method of aiming, having higher sense as standard, and having the ships pitch/yaw slow down for aiming.
-(Swap the BoostMin/BoostMax Off values with its On values, remember to set it in the pitch/yaw lever fields too)
+This can be altered to be the more common method of aiming, having higher sense as standard, and having the ships pitch/yaw slow down for aiming. (Swap the BoostMin/BoostMax Off values with its On values, remember to set it in the pitch/yaw lever fields too)
 
 Armoured using known methods of meta plating, including big plate health, voxel armour and segmented and layered plating.
 
-Its primarlily plated using char across the ship, alloys are on the side/rear armour.
+Its primarily plated using char across the ship, alloys are on the side/rear armour.
 
 145 m/s max speed using T2 thrusters, 141 with tripod + gunner.
 
@@ -35,8 +33,6 @@ Ground facing RFs provide readout of the distance to the surface.
 Uses basic FCU, no reverse, roll is performed using Roll_L and Roll_R buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
 
 Entry is through a small gap between the cockpit and thrusters.
-
-
 
 //Cost//
 
@@ -77,22 +73,21 @@ Manufacturing cost 54326 credits
 
 Total cost 126963 credits
 
-
 //Tactics//
 
 
 During the recent loot crate events, it became more appealing to me to use a small, cheap tripod boat to attack infantry on the ground.
 
-Attcking the ground in a typical meta fighter is far from ideal, where as a tripod ship can get closer and deploy fire on infantry.
+Attacking the ground in a typical meta fighter is far from ideal, where as a tripod ship can get closer and deploy fire on infantry.
 
 These ships often double as scouts and troop transport.
 
 The intent with this ship is to perform a constant pylon turn around the target area, while the gunner shoots to the side at infantry.
 
-Done right, the ship is never stationary for an easy hit with explosives, and the gunner is afforded a clear sight on the ground and horrizon at all times.
+Done right, the ship is never stationary for an easy hit with explosives, and the gunner is afforded a clear sight on the ground and horizon at all times.
 
-During live testing at the loot events, not one was shot down by infantry, and only a few were lost to Spicerup and his railguns.
+During live testing at the loot events, not one was shot down by infantry, and only a few were lost to fighters.
 
 When engaged by a fighter, you are at a disadvantage.
 
-To engage, perfore a pylon turn as usual, keeping your speed as high as possible while your gunner fires.
+To engage, perform a pylon turn as usual, keeping your speed as high as possible while your gunner fires.
